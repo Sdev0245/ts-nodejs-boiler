@@ -18,4 +18,4 @@ tsc -> is the type script compiler
 -w -> watcher for checking whether the code is changed or not
 ```
 
-Thank you
+Thank you!
