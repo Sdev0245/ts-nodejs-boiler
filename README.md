@@ -17,3 +17,5 @@ tsc -w
 tsc -> is the type script compiler
 -w -> watcher for checking whether the code is changed or not
 ```
+
+Thanks
